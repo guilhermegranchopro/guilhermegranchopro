@@ -1,5 +1,9 @@
 # 💫 About Me:
-👀 I’m interested in software development, machine learning, technological innovations, and entrepreneurship.<br>🔭 I’m currently working on a neural network to analyze and predict the financial markets.<br>👯 I’m looking to collaborate on entrepreneurship initiatives and stock market algorithmic analysis.<br>🌱 I’m currently learning about quantitative algorithmic trading.<br>📫 How to reach me: guilhermegranchopro@gmail.com<br>💬 Ask me about my extensive physics background.<br>⚡ Fun fact: If I am not coding, you can find me playing sports.
+I thrive in dynamic, high-impact environments, blending engineering physics, computer science, and advanced mathematics with practical applications in machine learning, applied physics, and optimisation. Driven by innovation and a commitment to excellence, I have led diverse projects that include developing AI models to map ocean floors and correct laser aberrations, as well as co-founding a startup. Throughout these experiences, I have upheld principles of integrity, respect, and collaboration. My achievements, such as being first author on a peer-reviewed paper in machine learning, receiving a 9/9 rating as a university teacher, and representing Startup Portugal, reflect my dedication to impactful work. My background as a national award-winning athlete fuels my resilience and discipline, qualities that I bring to every endeavour, whether in research, conferences, or entrepreneurial ventures. Guided by environmental responsibility and a passion for inclusion, I am committed to advancing solutions that benefit both society and the environment.
+
+When I'm not immersed in my work, you can find me playing sports, channeling the same discipline and passion that drives my professional life.
+
+📫 Feel free to reach out: guilhermegranchopro@gmail.com
 
 
 ## 🌐 Socials:
