@@ -5,6 +5,9 @@
 
 - 📫 How to reach me **guilhermegranchopro@gmail.com**
 
+<div>
+<div>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermegranchopro&show_icons=true&locale=en&layout=compact" alt="guilhermegranchopro" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermegranchopro" alt="guilhermegranchopro" />
