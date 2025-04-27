@@ -9,6 +9,14 @@
 <p align="left">
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermegranchopro&show_icons=true&locale=en&layout=compact" alt="guilhermegranchopro" /></p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermegranchopro&show_icons=true&locale=en&layout=compact" alt="guilhermegranchopro" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermegranchopro" alt="guilhermegranchopro" />
+    </td>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermegranchopro&" alt="guilhermegranchopro" /></p>
